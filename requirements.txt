@@ -19,7 +19,7 @@ pandas==0.23.0
 pylint==1.9.1
 python-dateutil==2.7.3
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 serial==0.0.66
 singledispatch==3.4.0.3
