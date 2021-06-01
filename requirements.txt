@@ -24,6 +24,6 @@ requests==2.18.4
 serial==0.0.66
 singledispatch==3.4.0.3
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 wrapt==1.10.11
 xlrd==1.1.0
